@@ -7,6 +7,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-191970?style=for-the-badge&logo=telegram&logoColor=00BFFF)](https://t.me/Colgens)
-[![Vkontakte](https://img.shields.io/badge/-vkontakte-191970?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/colgens)
+[![Telegram](https://img.shields.io/badge/-telegram-191970?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Colgens)
+[![Vkontakte](https://img.shields.io/badge/-vkontakte-191970?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/colgens)
 
