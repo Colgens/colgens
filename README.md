@@ -1,5 +1,5 @@
 ## Hello! My name is
-//![Header](https://github.com/Colgens/colgens/blob/main/image.png))
+//![Header]()
 
 ## and I'm a beginner QA Engineer
 
