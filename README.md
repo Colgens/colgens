@@ -10,5 +10,5 @@
 [![Telegram](https://img.shields.io/badge/-telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Colgens)
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-FFFFFF?style=for-the-badge&logo=VK&logoColor=black)](https://vk.com/colgens)
 
-https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FColgens&logo=leetcode&logoColor=yellow
+
 
