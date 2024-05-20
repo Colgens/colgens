@@ -10,5 +10,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Colgens)
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-FFFFFF?style=for-the-badge&logo=VK&logoColor=black)](https://vk.com/colgens)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Colgens?theme=dark&font=Homenaje&ext=heatmap)
+
 
 
