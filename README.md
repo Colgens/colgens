@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">And I'm a beginner Java Developer</h3>
+<h3 align="center">And I'm a Java Developer</h3>
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black)
