@@ -6,10 +6,10 @@
 ![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF.svg?style=for-the-badge&logo=postgresql&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black)
+![Apache Maven](https://img.shields.io/badge/apache_maven-FFFFFF.svg?style=for-the-badge&logo=apachemaven&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-FFFFFF.svg?style=for-the-badge&logo=spring&logoColor=black)
 
 
 ### Follow me
